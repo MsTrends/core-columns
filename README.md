@@ -1,4 +1,4 @@
-# core-columns
+# Core Columns Plugin
 Create a column group with the [column-group] shortcode, then add columns to the group with the [column] shortcode, like this:
 
     [column-group]
