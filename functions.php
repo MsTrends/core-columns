@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Core Columns
-Plugin URI: http://mstrends.com/plugins/trend-shortcodes
+Plugin URI: https://github.com/MsTrends/core-columns/
 Description: Enables columns shortcodes for WordPress.
 Version: 1.0
 Author: Muhamamd Faisal
